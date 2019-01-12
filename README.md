@@ -6,6 +6,6 @@ change the path for the data while runing the code.
 
 The dataset is in dataset1 folder with training and validation set.
 
-thanks
+Thanks
 
 Ravi Kamble
